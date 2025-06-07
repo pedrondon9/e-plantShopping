@@ -265,6 +265,9 @@ function ProductList({ onHomeClick }) {
         }));
     };
     
+
+
+    
     return (   
         <div>
             <div className="navbar" style={styleObj}>
